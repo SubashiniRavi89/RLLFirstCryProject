@@ -13,4 +13,4 @@ Then I click on Go to Cart page
 
 Examples: 
       | EmailId                     |   password    |
-      | subashiniravi385@gmail.com |   suba2000    |
+      | subashiniravi385@gmail.com |   Suba2000    |
